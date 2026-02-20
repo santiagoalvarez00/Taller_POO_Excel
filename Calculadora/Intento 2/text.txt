@@ -1,0 +1,26 @@
+
+Agregación: Una clase puede existir sola. Dos clases agregadas a un método.
+Composición: Una clase está compuesta por otra clase. Una clase que depende de otra clase.
+
+Responsabilidades. -> Métodos. Usamos verbos
+Atributos.
+Parametros.
+Argumentos. (Objetos)
+Retorno
+Agregación.
+Composición.
+Modelo vista controlador.
+
+Cada responsabilidad es un método.
+
+Para mañana (18/02/26) segundo ejercicio del parqueadero.
+
+Niveles de encapsulamiento. Público, privado, encapsulamiento.
+
+Visibilidad de los objetos. Estáticos y dinámicos.
+Python es todo dinámico, self.
+Dinámica: Dis. No usan instancias. 
+
+# 18/02/26
+
+Las columnas son atributos.
